@@ -7,7 +7,7 @@
     "start": "node barbconnect.js",
     "dev": "nodemon barbconnect.js"
   },
-  "author": "",
+  "author": "Goodies",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^3.0.2",
